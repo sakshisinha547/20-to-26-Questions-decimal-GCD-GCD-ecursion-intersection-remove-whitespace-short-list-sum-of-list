@@ -1,0 +1,1 @@
+# 20-to-26-Questions-decimal-GCD-GCD-ecursion-intersection-remove-whitespace-short-list-sum-of-list
